@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Aramilev Zakhar
-- 👀 I’m interested in Assembler, AI, 
-- 🌱 I’m currently learning PGATU
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Aramilev Zakhar
+I’m interested in Assembler, AI, 
+I’m currently learning PGATU
 
 <!---
 aramilevzakhar/aramilevzakhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
