@@ -1,4 +1,4 @@
-Lang: Python, Ruby, JS, C\C++\C#, Assembly
+Lang: Python, Ruby, JS, C\C++\C#, Assembler
 
 
 
